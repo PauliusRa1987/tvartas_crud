@@ -1,0 +1,18 @@
+{
+    "name": "prasa/tvartas_crud",
+    "description": "Tvartas",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tvartas\\": "src/app/",
+            "App\\DB\\": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PauliusRa",
+            "email": "buvizz@gmail.com"
+        }
+    ],
+    "require": {}
+}
